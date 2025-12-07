@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+investment:
+  minAmount: 500
+  maxAmount: 1000000
