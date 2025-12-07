@@ -2,5 +2,8 @@ server:
   port: 8081
 
 investment:
-  minAmount: 500
-  maxAmount: 1000000
+  currency: INR
+  minAmount: 1000
+  maxAmount: 5000000
+  riskLevel: medium
+
