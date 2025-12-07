@@ -1,1 +1,7 @@
+server:
+  port: 8083
+
+transaction:
+  maxDailyLimit: 100000
+  maxSingleTransaction: 25000
 
